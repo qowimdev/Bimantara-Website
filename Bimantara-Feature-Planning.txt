@@ -3,6 +3,7 @@ Feature :
 - Registration Form
 - News Update
 - Payment Gateway
+- Model Development View (3D Drone or UAV)
 
 Tech Stack Planning :
 - Type Script
