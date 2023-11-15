@@ -1,0 +1,13 @@
+Feature :
+- User Login
+- Registration Form
+- News Update
+- Payment Gateway
+
+Tech Stack Planning :
+- Type Script
+- Next Js
+- Express Js
+- Tree Js
+- GSAP
+- Firebase / Supabase
