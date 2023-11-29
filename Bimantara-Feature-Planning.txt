@@ -1,0 +1,14 @@
+Feature :
+- User Login
+- Registration Form
+- News Update
+- Payment Gateway
+- Model Development View (3D Drone or UAV)
+
+Tech Stack Planning :
+- Type Script
+- Next Js
+- Express Js
+- Tree Js
+- GSAP
+- Firebase / Supabase
